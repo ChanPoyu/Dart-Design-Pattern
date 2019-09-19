@@ -1,4 +1,4 @@
-import 'Print.dart' as Print;
+import './lib/Print.dart' as Print;
 
 void main(){
 	Print.Print p = new PrintBanner("Dude");

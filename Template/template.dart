@@ -25,7 +25,7 @@ class CharDisplay implements AbstractDisplay{
 
 	}
 
-	void open(){
+	void close(){
 		
 	}
 }
